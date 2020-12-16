@@ -1,0 +1,49 @@
+/* root  */
+:root {
+    --Jost_fonts: 'Jost', sans-serif;
+    --fff_color: #fff;
+    --text_color: rgb(34, 34, 34);
+    --sub_color: rgb(35, 185, 240);
+}
+
+
+/* CSS */
+body {
+    font-family: var(--Jost_fonts);
+    color: var(--text_color);
+
+}
+a {
+    color: var(--text_color);
+}
+a:hover, pp {
+    color: var(--sub_color);
+}
+.bg-light-1 {
+    background-color: var(--fff_color);
+}
+p {
+    font-size: small;
+    line-height:300%;
+}
+footer {
+    background-color: var(--text_color);
+    color: var(--fff_color);
+}
+.text-muted_c {
+    color: var(--fff_color);
+    font-size: medium;
+}
+
+/* MediaQuery */
+@media screen and (min-width:1000px) {
+    .container {
+        width: 50%;
+    }
+}
+@media screen and (max-width:0px) {
+    .container {
+        width:80%;
+    }
+}
+
