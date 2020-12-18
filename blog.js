@@ -13,7 +13,7 @@ with (document) {
 */
 
 with (document) {
-    write('<h3>' + '試しにホストをGltchに移行してみた' + '</h3>');
+    write('<h3>' + '試しにホストをGlitchに移行してみた' + '</h3>');
     write('<h6>' + '2020年12月18日' + '</h6>' + '<br>');
     write(
         '<p>ブログをGlitchに移行しました！</p>',
