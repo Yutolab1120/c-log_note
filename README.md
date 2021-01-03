@@ -2,4 +2,3 @@
 ## 個人のブログサイトです。
 JavaScripを使って適当に作った簡易的なブログサイトです。<br>
 <a href="https://c-lognote.glitch.me">※ホストをGlitchに移行しました！</a> 
-<a href="https://c-lognote.netlify.app">※※ホストをNetlifyに移行しました！</a> 
