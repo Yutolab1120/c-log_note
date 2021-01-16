@@ -13,6 +13,23 @@ with (document) {
 */
 
 with (document) {
+    write('<h3>' + 'メディアは嘘！？ トランプさんの反撃開始...!' + '</h3>');
+    write('<h6>' + '2021年01月16日' + '</h6>' + '<br>');
+    write(
+        '<p>こんにちは！@YUtolab1120です。</p>',
+        '<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">コ〇ナよりもマスメディアの方が数万倍は有毒なウイルスですよね<br><br>弱毒性のコ💩ナで恐怖を煽ったり、日本人を分断し、<br><br>国力を低下させたり、デマで国民を騙したり<br><br>世界的な犯罪者集団を支持し、逆にトランプを批判したりといった、このメディアウイルスこそが最も有害です<br><br>全日本人が気づくべきです <a href="https://t.co/5XzrsoNOQ6">pic.twitter.com/5XzrsoNOQ6</a></p>&mdash; マッカーサーJr (@realmaccarsarjr) <a href="https://twitter.com/realmaccarsarjr/status/1350368420496240640?ref_src=twsrc%5Etfw">January 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>',
+        '<p>最近。こんな感じのツイートが多くされていることご存知ですか？</p>',
+        '<p>個人的に興味深いなと思い、今回記事にさせていただきました。</p>' + '<br>',
+        '<h5><b>#トランプ反撃開始 について</b></h5>',
+        '<p>これについてですねw正直僕も最初は「トランプさんは敵だ」と考えてました。</p>',
+        '<p>しかし、このようなツイートなどをきっかけに色々調べてみたところ。メディアでは明かされていない内容が次々に出てきたんです。</p>',
+        '<p>なんで、表には出さないのか。「もう、何も信じられない。」そんな状況ですよね....</p>',
+        '<p>何やら「全世界緊急放送」や「Parlorがアプリストアから配信停止」だとか、なんかたくさん「ゴム人間」とかも聞きます。</p>',
+        '<p>今後、また面白い情報を目にしたら投稿していきますねw</p>',
+        '<p>それでは、また会いましょう！！</p>' + '<br>',
+}
+
+with (document) {
     write('<h3>' + '明けましておめでとうございます。' + '</h3>');
     write('<h6>' + '2021年01月04日' + '</h6>' + '<br>');
     write(
