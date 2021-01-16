@@ -16,7 +16,7 @@ with (document) {
     write('<h3>' + 'メディアは嘘！？ トランプさんの反撃開始...!' + '</h3>');
     write('<h6>' + '2021年01月16日' + '</h6>' + '<br>');
     write(
-        '<p>こんにちは！@YUtolab1120です。</p>',
+        '<p>こんにちは！@Yutolab1120です。</p>',
         '<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">コ〇ナよりもマスメディアの方が数万倍は有毒なウイルスですよね<br><br>弱毒性のコ💩ナで恐怖を煽ったり、日本人を分断し、<br><br>国力を低下させたり、デマで国民を騙したり<br><br>世界的な犯罪者集団を支持し、逆にトランプを批判したりといった、このメディアウイルスこそが最も有害です<br><br>全日本人が気づくべきです <a href="https://t.co/5XzrsoNOQ6">pic.twitter.com/5XzrsoNOQ6</a></p>&mdash; マッカーサーJr (@realmaccarsarjr) <a href="https://twitter.com/realmaccarsarjr/status/1350368420496240640?ref_src=twsrc%5Etfw">January 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>',
         '<p>最近。こんな感じのツイートが多くされていることご存知ですか？</p>',
         '<p>個人的に興味深いなと思い、今回記事にさせていただきました。</p>' + '<br>',
