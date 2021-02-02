@@ -1,49 +1,51 @@
-/* root  */
-:root {
-    --Jost_fonts: 'Jost', sans-serif;
-    --fff_color: #fff;
-    --text_color: rgb(34, 34, 34);
-    --sub_color: rgb(35, 185, 240);
+.uk-section-color{
+    background: rgb(235, 235, 235);
 }
-
-
-/* CSS */
-body {
-    font-family: var(--Jost_fonts);
-    color: var(--text_color);
-
+.uk-color{
+    height: 70px;
 }
-a {
-    color: var(--text_color);
+.uk-width-1-2-ee{
+    width: 60%;
 }
-a:hover, pp {
-    color: var(--sub_color);
+.uk-width-1-2-cc{
+    width: 35%;
 }
-.bg-light-1 {
-    background-color: var(--fff_color);
+#bb{
+    font-size: 30px;
+    color:black;
 }
-p {
-    font-size: small;
-    line-height:300%;
+img{
+    border: 2px solid #ebebeb;
+    border-radius: 1%;
 }
-footer {
-    background-color: var(--text_color);
-    color: var(--fff_color);
+p.box {
+   border-bottom: 1px solid rgb(240, 240, 240);
 }
-.text-muted_c {
-    color: var(--fff_color);
-    font-size: medium;
+h3{
+    font-weight: bold;
 }
-
-/* MediaQuery */
-@media screen and (min-width:1000px) {
-    .container {
-        width: 50%;
+h5{
+    font-size: 20px;
+    font-weight: bold;
+}
+h6{
+    font-weight: bold;
+}
+.img-a{
+    border-radius: 45%;
+}
+p{
+    color:rgb(0, 0, 0);
+    font-size: 15px
+}
+u{
+    color:rgb(146, 136, 76);
+}
+@media screen and (max-width:1300px){
+    .uk-width-1-2-ee{
+        width: 100%;
+    }
+    .uk-width-1-2-cc{   
+        width: 100%;
     }
 }
-@media screen and (max-width:0px) {
-    .container {
-        width:80%;
-    }
-}
-
