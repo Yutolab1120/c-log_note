@@ -21,7 +21,7 @@ with (document) {
     write('<h6>' + '2021年02月07日' + '</h6>');
     write(
         '<p>どうも！FunnyのUIが思った以上にそれっぽくなって喜んでる@Yutolab1120です！</p>',
-        '<p>今回はそう。<b>Funny</b>についてです！</p>'.
+        '<p>今回はそう。<b>Funny</b>についてです！</p>',
         '<h5>どんな感じなん?</h5>',
         '<p>えーと、動画を用意しました。</p>',
         '<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vSlNE-dXKVw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
@@ -35,8 +35,8 @@ with (document) {
         '<p>次にログインとかですけど全部Firebase様に任せてます...APIの方で簡単な処理を書いてやるだけです...</p>',
         '<p>配信基盤ですがSkyway APIを使っています。視聴側と配信側でタブ分けしてあるところが特徴ですかねw</p>',
         '<p>SkywayですがSFUサーバーの多数の接続でももたつかないように工夫していたりします。</p>',
-        '<p>チャットはSkywayではなくてSocket.ioの自作チャットです。iframeで別ページのものを呼び出してます。</p>'
-        '<p>こんな感じですね。まあ、なんか気になることがあったら気軽にお問い合わせください。以上です。</p>'
+        '<p>チャットはSkywayではなくてSocket.ioの自作チャットです。iframeで別ページのものを呼び出してます。</p>',
+        '<p>こんな感じですね。まあ、なんか気になることがあったら気軽にお問い合わせください。以上です。</p>',
         'それでは！また。' + '<br>'
     );
 }
