@@ -17,6 +17,32 @@ with (document) {
 */
 
 with (document) {
+    write('<h3>' + 'サービス完成! ちょっとしたお知らせ' + '</h3>');
+    write('<h6>' + '2021年02月07日' + '</h6>');
+    write(
+        '<p>どうも！FunnyのUIが思った以上にそれっぽくなって喜んでる@Yutolab1120です！</p>',
+        '<p>今回はそう。<b>Funny</b>についてです！</p>'.
+        '<h5>どんな感じなん?</h5>',
+        '<p>えーと、動画を用意しました。</p>',
+        '<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vSlNE-dXKVw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+        '<p>こんな感じだよーって言うのは伝わったと思います。一応スクショも...</p>',
+        '<img src="assets/blog-img/funny-s.png">',
+        '<p>なんか、あのTwi〇〇sとかLI〇ELIVEとかみたいなUIですねw</p>',
+        '<p>うん。ソースコードは非公開です。。。まあ、名前を変えて中心(core)部分だけの公開はするかもです（設計図的な？感じの...）</p>',
+        '<h5>仕組み</h5>',
+        '<p>仕組みですが、非常に簡単です。</p>',
+        '<p>まず、ホストはHerokuです。理由としてはただ単に使い慣れてるからですw</p>',
+        '<p>次にログインとかですけど全部Firebase様に任せてます...APIの方で簡単な処理を書いてやるだけです...</p>',
+        '<p>配信基盤ですがSkyway APIを使っています。視聴側と配信側でタブ分けしてあるところが特徴ですかねw</p>',
+        '<p>SkywayですがSFUサーバーの多数の接続でももたつかないように工夫していたりします。</p>',
+        '<p>チャットはSkywayではなくてSocket.ioの自作チャットです。iframeで別ページのものを呼び出してます。</p>'
+        '<p>こんな感じですね。まあ、なんか気になることがあったら気軽にお問い合わせください。以上です。</p>'
+        'それでは！また。' + '<br>'
+    );
+}
+
+
+with (document) {
     write('<h3>' + 'Funny Projectの開発報告' + '</h3>');
     write('<h6>' + '2021年02月03日' + '</h6>');
     write(
