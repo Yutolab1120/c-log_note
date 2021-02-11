@@ -24,7 +24,7 @@ with (document) {
         '<p>今回はそう。<b>Funny</b>についてです！</p>',
         '<h5>どんな感じなん?</h5>',
         '<p>えーと、動画を用意しました。</p>',
-        '<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vSlNE-dXKVw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+        '<iframe width="100%" src="https://www.youtube-nocookie.com/embed/vSlNE-dXKVw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
         '<p>こんな感じだよーって言うのは伝わったと思います。一応スクショも...</p>',
         '<img src="assets/blog-img/funny-s.png">',
         '<p>なんか、あのTwi〇〇sとかLI〇ELIVEとかみたいなUIですねw</p>',
